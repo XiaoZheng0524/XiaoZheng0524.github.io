@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS), where I am part of the LAMP (Learning and Machine Perception) Laboratory. My research focuses on Artificial Intelligence, with a particular emphasis on 3D Reconstruction.  I am deeply engaged in exploring cutting-edge techniques to reconstruct three-dimensional models from two-dimensional images or other data sources, such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS). This involves a combination of computer vision and computer graphics.
+Hello! I am a Ph.D. candidate at the University of Chinese Academy of Sciences (UCAS), where I am part of the LAMP (Learning and Machine Perception) Laboratory. My research focuses on Artificial Intelligence, with a particular emphasis on 3D Reconstruction.  I am deeply engaged in exploring cutting-edge techniques to reconstruct three-dimensional models from two-dimensional images or other data sources, such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS).
 
 Research Interests
 ======
